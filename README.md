@@ -15,5 +15,8 @@ This is where I upload my solutions to competitive programming problems and algo
 
 ---
 
-## Directory Structure:
-Problem-Solving/ │── Codeforces/ │ ├── Problem1.cpp # Solution for a problem from Codeforces │ ├── Problem2.cpp │ └── ... │── LeetCode/ │ ├── Problem1.cpp # Solution for a problem from LeetCode │ ├── Problem2.cpp │ └── ...
+## References:
+- [LeetCode](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/edit?gid=1377915986#gid=1377915986)) - Platform for practicing algorithms.
+- [Codeforces](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?pli=1&gid=1160016643#gid=1160016643)) - Competitive programming contests.
+
+
