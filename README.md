@@ -16,3 +16,4 @@ This is where I upload my solutions to competitive programming problems and algo
 ---
 
 ## Directory Structure:
+Problem-Solving/ │── Codeforces/ │ ├── Problem1.cpp # Solution for a problem from Codeforces │ ├── Problem2.cpp │ └── ... │── LeetCode/ │ ├── Problem1.cpp # Solution for a problem from LeetCode │ ├── Problem2.cpp │ └── ...
